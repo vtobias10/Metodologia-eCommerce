@@ -45,7 +45,7 @@ const Catalogo = ({ esAdmin = false, onModificar, onEliminar }) => {
     },{
       nombre: 'AMD Ryzen 5 5600G',
       descripcion: '',
-      precio: '50.000',
+      precio: '150.000',
       stock: '67',
       id: 2,
       imagen: img2,
@@ -54,7 +54,7 @@ const Catalogo = ({ esAdmin = false, onModificar, onEliminar }) => {
     },{
       nombre: 'Razer Viper Mini',
       descripcion: '',
-      precio: '50.000',
+      precio: '90.000',
       stock: '41',
       id: 3,
       imagen: img3,
@@ -63,7 +63,7 @@ const Catalogo = ({ esAdmin = false, onModificar, onEliminar }) => {
     },{
       nombre: 'NVIDIA RTX 2060',
       descripcion: '',
-      precio: '50.000',
+      precio: '250.000',
       stock: '23',
       id: 4,
       imagen: img4,
